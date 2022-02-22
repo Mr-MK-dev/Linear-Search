@@ -1,0 +1,14 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "linear search",
+  "main": "index.js",
+  "scripts": {
+    "kick": "nodemon LinearSearch.js"
+  },
+  "author": "mk",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
